@@ -6,7 +6,7 @@ export default defineConfig({
   basePath: '/studio',
   projectId: 'umdzlb31',
   dataset: 'production',
-  title: 'Amplifai Admin',
+  title: 'OrbitGravity Admin',
   schema,
   plugins: [
     structureTool(),
