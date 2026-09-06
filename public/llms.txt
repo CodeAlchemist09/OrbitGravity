@@ -1,6 +1,6 @@
-# Amplifai
+# OrbitGravity
 
-> Amplifai is a boutique AI studio that builds websites and ad creatives for
+> OrbitGravity is a boutique AI studio that builds websites and ad creatives for
 > small and medium-sized businesses internationally, including salons, medical
 > spas, contractors, furniture and retail showrooms, and e-commerce brands.
 > Projects are custom-quoted; there are no fixed public price packages.
