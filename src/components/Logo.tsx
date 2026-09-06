@@ -6,7 +6,7 @@ interface LogoProps {
 
 export function LogoIcon({ color = 'currentColor', className = 'w-8 h-8' }: { color?: string; className?: string }) {
   return (
-    <svg viewBox="0 0 40 40" fill="none" className={className} aria-label="Amplifai logo icon">
+    <svg viewBox="0 0 40 40" fill="none" className={className} aria-label="OrbitGravity logo icon">
       {/* Equalizer bars forming an "A" shape with growth/amplitude */}
       <rect x="2" y="28" width="6" height="10" rx="2" fill={color} opacity="0.7" />
       <rect x="11" y="18" width="6" height="20" rx="2" fill={color} opacity="0.85" />
@@ -27,7 +27,7 @@ export function Logo({ color = 'currentColor', className = '', showWordmark = tr
           className="text-xl font-bold tracking-tight font-[family-name:var(--font-display)]"
           style={{ color }}
         >
-          Amplifai
+          OrbitGravity
         </span>
       )}
     </div>

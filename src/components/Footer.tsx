@@ -75,7 +75,7 @@ export function Footer() {
         {/* Bottom bar */}
         <div className="mt-16 pt-8 border-t border-white/10 flex flex-col sm:flex-row items-center justify-between gap-4">
           <p className="text-white/30 text-xs">
-            © {new Date().getFullYear()} Amplifai. All rights reserved.
+            © {new Date().getFullYear()} OrbitGravity. All rights reserved.
           </p>
           <p className="text-white/30 text-xs italic">
             Built with AI. Crafted by humans.
