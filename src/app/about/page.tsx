@@ -12,7 +12,7 @@ export default function About() {
             About
           </span>
           <h1 className="font-[family-name:var(--font-display)] text-4xl sm:text-5xl lg:text-6xl font-bold text-white tracking-tight mb-6 max-w-4xl">
-            We started Amplifai because small businesses deserved better options.
+            We started OrbitGravity because small businesses deserved better options.
           </h1>
           <p className="text-white/50 text-lg max-w-2xl">
             A boutique AI studio on a mission to close the gap between what small businesses need and what they can actually afford.
@@ -31,7 +31,7 @@ export default function About() {
               At the same time, AI tools were making it possible to design and build faster and better than ever — but almost exclusively in the hands of people charging <em>more</em> for it, not less.
             </p>
             <p className="text-ink text-xl leading-[1.8] font-medium mb-6">
-              Amplifai exists to close that gap.
+              OrbitGravity exists to close that gap.
             </p>
             <p className="text-gray-mid text-lg leading-[1.8]">
               We combine senior-level design and marketing judgment with AI-accelerated production, so a local business — not just a funded startup — can get a website and ad creative that actually look and perform like they belong at the top of their industry. No bloated retainers. No generic templates. Just work built specifically for your business, priced fairly, and delivered fast.
@@ -148,9 +148,9 @@ export default function About() {
                 <h3 className="font-[family-name:var(--font-display)] text-xl font-semibold text-ink mb-1">
                   From the Founder
                 </h3>
-                <p className="text-indigo text-sm font-medium mb-4">Founder, Amplifai</p>
+                <p className="text-indigo text-sm font-medium mb-4">Founder, OrbitGravity</p>
                 <p className="text-gray-mid leading-relaxed">
-                  I started Amplifai after seeing how many great small businesses were being underserved online: either ignored by agencies that only wanted enterprise clients, or let down by rushed, generic freelance work. I build every project personally, using AI to move fast without cutting corners on design or strategy. If you're a small business owner who wants your online presence to actually reflect the quality of what you do — that's exactly who I built this studio for.
+                  I started OrbitGravity after seeing how many great small businesses were being underserved online: either ignored by agencies that only wanted enterprise clients, or let down by rushed, generic freelance work. I build every project personally, using AI to move fast without cutting corners on design or strategy. If you're a small business owner who wants your online presence to actually reflect the quality of what you do — that's exactly who I built this studio for.
                 </p>
               </div>
             </div>
