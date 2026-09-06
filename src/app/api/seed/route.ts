@@ -36,10 +36,10 @@ export async function GET() {
     // 1. Seed Site Settings
     await client.create({
       _type: 'siteSettings',
-      title: 'Amplifai',
+      title: 'OrbitGravity',
       description: 'Boutique AI studio building high-converting websites and ad creatives for small businesses.',
-      contactEmail: 'hello@amplifai.com',
-      footerText: '© 2024 Amplifai Studio. All rights reserved.',
+      contactEmail: 'hello@orbitgravity.com',
+      footerText: '© 2024 OrbitGravity Studio. All rights reserved.',
     });
 
     // 2. Seed Homepage
@@ -47,7 +47,7 @@ export async function GET() {
       _type: 'homePage',
       heroEyebrow: 'AI-Powered Website & Ad Studio for SMBs',
       heroHeadline: "Websites and ad creatives that make your business look like it belongs on the internet's front page.",
-      heroSubheadline: "Amplifai is a boutique AI studio building high-converting websites and scroll-stopping ad creative for salons, clinics, contractors, showrooms, and online stores — at a price small businesses can actually afford.",
+      heroSubheadline: "OrbitGravity is a boutique AI studio building high-converting websites and scroll-stopping ad creative for salons, clinics, contractors, showrooms, and online stores — at a price small businesses can actually afford.",
       trustStats: [
         { _key: '1', value: '6+', label: 'Industries served' },
         { _key: '2', value: '10+', label: 'Projects delivered' },
@@ -85,7 +85,7 @@ export async function GET() {
       { q: 'Do you work with businesses outside your home country?', a: 'Yes — we work with SMBs internationally and are set up to collaborate fully remotely, including calls at time zones that work for you.' },
       { q: 'Can I see examples in my specific industry?', a: 'Likely, yes — check out our Work page, which is filterable by industry. If we don\'t have an example in your exact niche yet, we\'re happy to show comparable work and walk you through our approach.' },
       { q: "I'm not sure if I need a website, ad creative, or both — can you help me figure that out?", a: 'Absolutely — that\'s exactly what the first conversation is for. Tell us where your business is today and where you want it to go, and we\'ll recommend what will actually move the needle rather than upselling everything.' },
-      { q: 'What makes Amplifai different from a freelancer or a big agency?', a: 'You get agency-level design thinking and AI-accelerated speed, without freelancer inconsistency or big-agency pricing and bureaucracy — one studio, directly accountable for the result.' }
+      { q: 'What makes OrbitGravity different from a freelancer or a big agency?', a: 'You get agency-level design thinking and AI-accelerated speed, without freelancer inconsistency or big-agency pricing and bureaucracy — one studio, directly accountable for the result.' }
     ];
     for (let i = 0; i < faqs.length; i++) {
       await client.create({ _type: 'faq', order: i, question: faqs[i].q, answer: faqs[i].a });
