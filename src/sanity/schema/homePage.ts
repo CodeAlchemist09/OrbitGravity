@@ -51,7 +51,7 @@ export const homePageType = defineType({
     }),
     defineField({
       name: 'whyUs',
-      title: 'Why Amplifai Section',
+      title: 'Why OrbitGravity Section',
       type: 'array',
       of: [
         {
