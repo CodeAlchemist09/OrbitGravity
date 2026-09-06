@@ -8,7 +8,7 @@ import { Footer } from '@/components/Footer';
 const inter = Inter({ subsets: ['latin'], variable: '--font-body' });
 
 export const metadata: Metadata = {
-  title: 'Amplifai — AI-Powered Websites & Ad Creative for SMBs',
+  title: 'OrbitGravity — AI-Powered Websites & Ad Creative for SMBs',
   description: 'Boutique AI studio building high-converting websites and ad creatives for small businesses — salons, clinics, contractors, retail, and e-commerce. Get a free quote.',
 };
 

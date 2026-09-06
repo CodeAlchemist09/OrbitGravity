@@ -380,12 +380,12 @@ export function HomeClient({
         </section>
       )}
 
-      {/* ========== WHY AMPLIFAI ========== */}
+      {/* ========== WHY ORBITGRAVITY ========== */}
       <section className="py-20 sm:py-28 bg-ivory">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
             <span className="text-xs font-semibold uppercase tracking-[0.2em] text-indigo mb-4 block">
-              Why Amplifai
+              Why OrbitGravity
             </span>
             <h2 className="font-[family-name:var(--font-display)] text-3xl sm:text-4xl lg:text-5xl font-bold text-ink tracking-tight">
               What makes us different
