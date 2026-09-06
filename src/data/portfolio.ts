@@ -166,7 +166,7 @@ export const testimonials: Testimonial[] = [
     id: '1',
     clientName: 'Owner, Luxury Salon — Dubai',
     industry: 'Salon & Beauty',
-    quote: 'Amplifai delivered a website that looks like we spent ten times what we actually paid. Our online bookings jumped immediately, and clients tell us the site is exactly what they expected from our brand.',
+    quote: 'OrbitGravity delivered a website that looks like we spent ten times what we actually paid. Our online bookings jumped immediately, and clients tell us the site is exactly what they expected from our brand.',
     rating: 5,
     relatedPortfolioId: '1',
     published: true,
